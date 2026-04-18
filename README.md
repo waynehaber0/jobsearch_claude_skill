@@ -8,5 +8,5 @@ Requires Gmail, Google Drive, and web search connected to Claude.
 
 More detail on my [blog](https://waynehaber.com/2026/04/18/how-i-use-claude-to-automate-my-job-search/)
 
-![Job search flow](job search flow.png)
+![Job search flow.png](Job Search Flow)
 
